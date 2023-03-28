@@ -1,4 +1,4 @@
-<?php include_once "register1.php"; ?>
+<?php include_once "register.php"; ?>
 
 
 <!DOCTYPE html>
